@@ -1,0 +1,14 @@
+.Toolbar {
+  background-color: rgb(255, 0, 0);
+  padding: 20px;             
+  border-radius: 8px;        
+  font-size: 16px;    
+  font-family: sans-serif;
+  line-height: 1.5; 
+  margin:10px;
+}
+
+button {
+    padding: 10px 6;
+    margin: 10px;
+}
