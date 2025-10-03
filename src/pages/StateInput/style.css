@@ -1,0 +1,26 @@
+.background {
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.background--active {
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.picture {
+  border-radius: 25%;
+  border: none;
+}
+
+.picture--active {
+  border-radius: 25%;
+}
+
+.input-box {
+  margin: 6px;
+}

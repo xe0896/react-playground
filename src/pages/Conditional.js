@@ -1,12 +1,12 @@
 function Drink({ name }) {
-	let plant = 'bean';
-	let caffeine = '80-185 mg/cup';
-	let age = '1,000+ years';
-	if(name === 'tea') {
-		plant = 'leaf';
-		caffeine = '15-70mg/cup';
-		age = '4,000+ years';
-	}
+  let plant = "bean";
+  let caffeine = "80-185 mg/cup";
+  let age = "1,000+ years";
+  if (name === "tea") {
+    plant = "leaf";
+    caffeine = "15-70mg/cup";
+    age = "4,000+ years";
+  }
   return (
     <section>
       <h1>{name}</h1>
